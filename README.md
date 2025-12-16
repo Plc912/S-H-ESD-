@@ -4,7 +4,7 @@
 
 邮箱：3522236586@qq.com
 
-GitHub:
+GitHub:https://github.com/Plc912/S-H-ESD-.git
 
 基于季节性混合 ESD (Seasonal Hybrid ESD) 方法的时间序列异常检测 MCP 工具服务器。
 
